@@ -11,6 +11,18 @@ Database ini dirancang untuk mendemonstrasikan implementasi objek basis data lan
 - Validasi otomatis agar saldo tidak pernah bernilai negatif
 - Pencatatan log aktivitas transaksi secara otomatis
 
+## ERD
+
+<p align="center">
+<img width="644" height="197" alt="image" src="https://github.com/user-attachments/assets/7ef76b7e-ff7b-4df7-b819-f09e172b97c5" />
+</p>
+
+## Relasi tabel
+
+<p align="center">
+<img width="625" height="329" alt="image" src="https://github.com/user-attachments/assets/71323a8d-a70c-4963-b098-fb0bace75bcb" />
+</p>
+
 ## 🗂️ Struktur Tabel
 
 | Tabel | Deskripsi |
